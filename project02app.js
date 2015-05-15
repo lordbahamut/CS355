@@ -121,7 +121,7 @@ app.get('/', function(req, res) {
 			'<li><a href="/Post/view/table">Posts</a></li>' +		
 			'<li><a href="/About">About</a></li><br \><br \>' +	
 			'<a href="/Login">Log In</a>' +
-			'<a href="/User/add">Sign Up</a><br \>' +		
+			'<a href="/User/add">Sign Up</a><br \>' +	 	
 			'<footer>' +
 			'<p>Created by: Daniel Lowe</p>' +
 			'<p>Contact information: <a1 href="mailto:daniel.neobahamutzero@gmail.com">daniel.neobahamutzero@gmail.com</a1></p>' +
